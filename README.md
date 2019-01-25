@@ -1,5 +1,5 @@
 # Cleveland-Museum-of-Art-Open-Access-API
-An API library for the [Cleveland Museum of Art Open Access API](http://openaccess-api.clevelandart.org/)
+An unofficial API library for the [Cleveland Museum of Art Open Access API](http://openaccess-api.clevelandart.org/)
 
 To learn more about the CMA's Open Access program, visit [here](http://www.clevelandart.org/about/press/media-kit/cleveland-museum-art-advances-open-access-movement)
 
@@ -34,7 +34,7 @@ print search
 _Find:_
 A query that returns a specific artwork and its metadata.
 
-All you need is either the artwork's id or accession number.
+All you need is either the artwork's id or accession number. 
 
 ```
 vg = c.find("125249")
