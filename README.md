@@ -1,5 +1,7 @@
 # Cleveland-Museum-of-Art-Open-Access-API
-A simple library of the [Cleveland Museum of Art Open Access API](http://openaccess-api.clevelandart.org/) for Python
+An API library for the [Cleveland Museum of Art Open Access API](http://openaccess-api.clevelandart.org/)
+
+To learn more about the CMA's Open Access program, visit [here](http://www.clevelandart.org/about/press/media-kit/cleveland-museum-art-advances-open-access-movement)
 
 # **Getting Started**
 
